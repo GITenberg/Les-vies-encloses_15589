@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5747
     wikipedia: http://fr.wikipedia.org/wiki/Georges_Rodenbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15589#Les-vies-encloses
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2005-04-08'
 gutenberg_type: Text
