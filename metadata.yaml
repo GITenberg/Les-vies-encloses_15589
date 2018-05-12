@@ -1,0 +1,29 @@
+_repo: Les-vies-encloses_15589
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rodenbach, Georges
+    alias: Rodenbach, Georges (Georges-Raymond-Constantin)
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '5747'
+    url: http://www.gutenberg.org/2009/agents/5747
+    wikipedia: http://fr.wikipedia.org/wiki/Georges_Rodenbach
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2005-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15589'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: Les vies encloses
+url: http://www.gutenberg.org/ebooks/15589
